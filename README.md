@@ -1,1 +1,1 @@
-# Python-for-beginners
+# Python-projects-for-beginners
