@@ -1,2 +1,2 @@
-# Python-projects
-Beginner python games 
+# Python games
+ 
